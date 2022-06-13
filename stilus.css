@@ -42,7 +42,7 @@ html, body{
     left: -10000px;
     animation: mymove 2.5s 2;
     animation-direction: alternate;
-    position: fixed;
+    position: fixed;                 /* ez megmondja azt, hogy ha görgetsz lefelé vagy fölfelé akkor fixálva van nem csuszik el mindig a képernyőn marad a kép */
 }
 
 .eltunes2{
