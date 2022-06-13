@@ -42,6 +42,7 @@ html, body{
     left: -10000px;
     animation: mymove 2.5s 2;
     animation-direction: alternate;
+    position: fixed;
 }
 
 .eltunes2{
