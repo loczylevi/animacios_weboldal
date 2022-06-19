@@ -476,7 +476,7 @@ html, body{
     position: absolute;
     top: 0;
     left: -100000px;
-    animation: mymove 3s 1;
+    animation: mymove 4s 1;
     position: fixed;
 }
 
@@ -490,7 +490,7 @@ html, body{
 }
 
 @keyframes mymove {
-    0%   {left: 300px;}
+    0%   {left: 600px;}
     100% {left: -2000px;}
     /*100% {opacity:  0;}*/
 }
