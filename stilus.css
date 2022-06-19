@@ -471,8 +471,8 @@ html, body{
 
 }
 .eltunes{
-    width: 1920px;
-    height: 1080px;
+    max-width: 100%;
+    max-height: 100%;
     position: absolute;
     top: 0;
     left: -100000px;
@@ -481,11 +481,11 @@ html, body{
 }
 
 .eltunes2{
-    width: 1920px;
-    height: 1080px;
+    max-width: 100%;
+    max-height: 100%;
     position: absolute;
     left: -10000px;
-    animation: mymove1 2.5s 2;
+    animation: mymove1 3s 1;
     animation-direction: alternate;
 }
 
