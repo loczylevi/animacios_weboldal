@@ -476,8 +476,7 @@ html, body{
     position: absolute;
     top: 0;
     left: -100000px;
-    animation: mymove 2.5s 1;
-    animation-direction: alternate;
+    animation: mymove 3s 1;
     position: fixed;
 }
 
@@ -492,7 +491,7 @@ html, body{
 
 @keyframes mymove {
     0%   {left: 0px;}
-    100% {left: -1500px;}
+    100% {left: -2000px;}
     /*100% {opacity:  0;}*/
 }
 
@@ -879,9 +878,10 @@ footer {
     cursor: pointer;
     padding: 10px;
     border-radius: 10px; 
-    }
-  #felGomb:hover {
+}
+#felGomb:hover {
     background-color:  #555;
     
-  }
+}
+  
   
