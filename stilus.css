@@ -494,7 +494,7 @@ html, body{
 }
 
 @keyframes mymove {
-    0%   {margin-left: 200%;}
+    0%   {left: -30%;}
     100% {left: -3000px;}
     /*100% {opacity:  0;}*/
 }
