@@ -475,7 +475,7 @@ html, body{
     max-height: 100%;
     position: absolute;
     top: 0;
-    left: -100000px;
+    left: -3000px;
     animation: mymove 4s 1;
     position: fixed;
 }
@@ -494,8 +494,8 @@ html, body{
 }
 
 @keyframes mymove {
-    0%   {left: -620px;}
-    100% {left: -2000px;}
+    0%   {margin-left: 122%;}
+    100% {left: -3000px;}
     /*100% {opacity:  0;}*/
 }
 
