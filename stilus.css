@@ -908,5 +908,13 @@ footer {
   100% {background-color:red; left:0px; top:0px;}
 }
 
+#style{
+    text-align: center;
+}
+
+.style{
+    text-align: center;
+}
+
 
   
