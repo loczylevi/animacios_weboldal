@@ -1039,11 +1039,11 @@ header{
 
 @keyframes gomb_lecsuszik {
     from {
-        transform: translateY(0);
+        transform: translateY(0%);
     }
 
     to {
-        transform: translateY(25px);
+        transform: translateY(5%);
     }
    
 }
