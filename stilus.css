@@ -970,7 +970,7 @@ header{
 
 nav{
     position: fixed;
-    line-height: 50px;
+    line-height: 60px;
     
 
 }
@@ -1012,7 +1012,7 @@ header{
     /*width: 200px;*/
     margin: 10px;
     padding: 15px;
-    background-image: url(fem.jpg);
+    background-image: url(gomb.jpg);
     text-align: center;
     font-family: Verdana;
     font-size: 16px;
