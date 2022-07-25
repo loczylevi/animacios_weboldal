@@ -1031,8 +1031,8 @@ header{
     animation-duration: 3s;  
     animation-fill-mode: forwards;
     cursor: pointer;
-    filter: invert(100%);
-    box-shadow: none;
+    /*filter: invert(100%);*/
+    /*box-shadow: none;*/
 
 }
 
