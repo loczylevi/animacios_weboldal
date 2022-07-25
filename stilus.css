@@ -1026,15 +1026,27 @@ header{
 
 
 .gomb_fem:hover{
+    animation: gomb_lecsuszik 5s 1;
     cursor: pointer;
     filter: invert(100%);
     box-shadow: none;
 
 }
+
 .gomb_fem:active{
   box-shadow: 0px 5px 10px grey;
 }
 
+@keyframes gomb_lecsuszik {
+    from {
+        transform: translateY(0);
+    }
+
+    to {
+        transform: translateY(25px);
+    }
+   
+}
 
 
   
