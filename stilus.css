@@ -969,7 +969,7 @@ header{
 /* uj fejléc */
 
 nav{
-    position: fixed;
+    /*position: fixed;*/
     line-height: 60px;
     
 
@@ -1023,7 +1023,9 @@ header{
     color:cornsilk;
 }
 
-
+.kozep{
+    text-align: center;
+}
 
 .gomb_fem:hover{
     /*animation: gomb_lecsuszik 3s 1;*/
